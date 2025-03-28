@@ -1,0 +1,7 @@
+{
+    "poolId": "SOL-USDC",
+    "baseMint": "So111...",
+    "quoteMint": "EPjFW...",
+    "baseReserve": "1000000000",
+    "quoteReserve": "10000000000"
+  }
