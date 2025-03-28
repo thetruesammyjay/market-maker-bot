@@ -83,12 +83,12 @@ npm start
 ## Command Reference 💬
 
 Command -->	Description
-`/connect_wallet` -->	Connect your Solana wallet
-`/buy [token] [amount]` -->	Execute buy order
-`/watch_token [token] [price]` -->	Set price alert
-`/start_mm [pair]` -->	Start market making
-`/stop_mm` -->	Stop market making
-`/portfolio` --> View current holdings
+- `/connect_wallet` -->	Connect your Solana wallet
+- `/buy [token] [amount]` -->	Execute buy order
+- `/watch_token [token] [price]` -->	Set price alert
+- `/start_mm [pair]` -->	Start market making
+- `/stop_mm` -->	Stop market making
+- `/portfolio` --> View current holdings
 
 ---
 ## Architecture 🏗️
